@@ -1,3 +1,7 @@
+# Google Analytic in React
+
+The purpose of this repo is to integrate the Google Analytics with the Frontend React Application. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
